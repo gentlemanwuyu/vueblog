@@ -48,4 +48,4 @@ server {
 }
 ```
 
-### API项目请参考[blog-api](https://github.com/gentlemanwuyu/vueblog-apii)
+### API项目请参考[blog-api](https://github.com/gentlemanwuyu/vueblog-api)
